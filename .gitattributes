@@ -1,0 +1,4 @@
+ b0128746f99304d20755cae9da239907f68a9c8d
+.jpg, filter=lfs diff=lfs merge=lfs -text
+.mkv, filter=lfs diff=lfs merge=lfs -text
+.mp4 filter=lfs diff=lfs merge=lfs -text
